@@ -33,8 +33,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,java,mysql,html,css,)](https://skillicons.dev)
 
-➡️ [more blog posts...](https://dev.to/codewhiteweb)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
