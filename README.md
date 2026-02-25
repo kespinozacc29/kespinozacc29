@@ -21,8 +21,8 @@
 
 
 
-  📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
+  📫 Cómo comunicarse conmigo:  
+  Enviéme un correo electrónico a "kespinozacc29@gmail.com" or 
   scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
 
 
