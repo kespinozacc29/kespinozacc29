@@ -4,7 +4,7 @@
 </h3>
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+Bienvenido+a+mi+Portafolio;Desarrollador+de+Software+en+formación;Apasionado+por+la+tecnología;Construyendo+aplicaciones+web+reales;Aprendiendo+y+mejorando+cada+día">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+Bienvenido+a+mi+Portafolio;+Desarrollador+de+Software+en+formación;Apasionado+por+la+tecnología;Construyendo+aplicaciones+web+reales;Aprendiendo+y+mejorando+cada+día">
   </a>
 </p>
 ---
